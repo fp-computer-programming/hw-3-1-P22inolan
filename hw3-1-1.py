@@ -1,3 +1,4 @@
+# Author: IBN (AMDG) 9/30/2021
 win1 = input("How many wins did Team 1 have? ")
 draw1 = input("How many draws did Team 1 have? ")
 win2 = input("How many wins did Team 2 have? ")

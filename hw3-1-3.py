@@ -1,3 +1,4 @@
+# Author: IBN (AMDG) 9/30/2021
 x = input("Give me a number. ")
 
 if int(x) % 2 == 0:
